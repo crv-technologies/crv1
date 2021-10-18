@@ -1,4 +1,9 @@
 chaitanya 
  welcomes vyshnavi and raja.
+<<<<<<< HEAD
 Hi from Vyshnavi
 Good evening
+=======
+glad to meet u people 
+greetings to all.
+>>>>>>> d661b33c200972607376091f4884276a4f7e39c3
